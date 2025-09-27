@@ -1,9 +1,3 @@
-## 📺 Demo Video
-
-[![Watch the Demo](https://img.youtube.com/vi/h30RgpIiVpI/0.jpg)](https://www.youtube.com/watch?v=h30RgpIiVpI)
-
-*Click the image above to watch our complete project demonstration*
-
 # 🥗 NutriTrack - Cloud-Native Nutrition Tracking Platform
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://calorie-contra-main-shubham2611.repl.co)
