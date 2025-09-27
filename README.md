@@ -51,7 +51,8 @@
 
 
 ### Food Search Interface  
-![Food Search](screenshots/search.png)
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/7cbda9d0-88d9-4f30-801e-2b9af3e6c0c3" />
+
 
 ### Food Log Interface
 <img width="1793" height="712" alt="image" src="https://github.com/user-attachments/assets/e28e1191-f8a9-4c34-8fea-8c227a9ae669" />
