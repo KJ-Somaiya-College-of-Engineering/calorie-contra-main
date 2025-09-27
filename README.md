@@ -1,48 +1,83 @@
-# 🥗 NutriTrack - AI-Powered Nutrition Tracker
+## 📺 Demo Video
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](your-demo-link-here)
+[![Watch the Demo](https://img.youtube.com/vi/h30RgpIiVpI/0.jpg)](https://www.youtube.com/watch?v=h30RgpIiVpI)
+
+*Click the image above to watch our complete project demonstration*
+
+# 🥗 NutriTrack - Cloud-Native Nutrition Tracking Platform
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://calorie-contra-main-shubham2611.repl.co)
+[![Demo Video](https://img.shields.io/badge/Demo-Video-red)](https://www.youtube.com/watch?v=h30RgpIiVpI)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/KJ-Somaiya-College-of-Engineering/calorie-contra-main)
-[![Python](https://img.shields.io/badge/Python-3.11-yellow)](https://python.org)
-[![Quart](https://img.shields.io/badge/Quart-0.19.4-red)](https://quart.palletsprojects.com/)
 
-> A modern, AI-powered nutrition tracking web application that helps users monitor their daily calorie intake and macronutrients with intelligent food recognition and personalized nutrition advice.
+> A comprehensive cloud computing project demonstrating modern cloud-native application development with AI integration, microservices architecture, and scalable deployment strategies.
 
-## 🚀 Features
+## 📺 Demo Video
 
-### Core Features
-- **🔍 Smart Food Search** - Search from USDA's comprehensive food database
-- **📊 Interactive Dashboard** - Beautiful charts showing daily and weekly nutrition data
-- **🤖 AI Nutrition Assistant** - Powered by Google Gemini AI for personalized advice
-- **📱 Modern Responsive UI** - Works seamlessly on desktop and mobile devices
-- **👤 User Authentication** - Secure login and registration system
-- **📈 Progress Tracking** - Visual analytics with animated charts
+[![Watch the Demo](https://img.youtube.com/vi/h30RgpIiVpI/0.jpg)](https://www.youtube.com/watch?v=h30RgpIiVpI)
 
-### Advanced Features  
-- **Real-time Nutrition Calculation** - Instant macronutrient breakdown
-- **Weekly Progress Visualization** - Animated bar charts showing trends
-- **Circular Progress Indicators** - Modern UI for daily goal tracking
-- **Chatbot Integration** - Interactive AI assistant for nutrition queries
-- **Session Management** - Persistent user sessions and data
+*Click the image above to watch our complete project demonstration*
 
-## 🛠️ Tech Stack
+## 👥 Team Members
 
-**Backend:**
-- **Framework:** Quart (Async Python web framework)
-- **Database:** SQLAlchemy with AsyncIO support
-- **AI Integration:** Google Gemini API
-- **Authentication:** Werkzeug security utilities
-- **Data Visualization:** Matplotlib with animations
+**Course:** Cloud Computing and Virtualization  
+**Institution:** K.J. Somaiya College of Engineering
 
-**Frontend:**
-- **UI Framework:** Bootstrap 5.3
-- **Styling:** Custom CSS with gradients and animations
-- **JavaScript:** Modern ES6+ with async/await
-- **Charts:** Custom SVG circular progress indicators
-- **Fonts:** Inter font family for modern typography
+- **Shubham Sharma** (16030725011)
+- **Amey Rana** (16030725006)
 
-**External APIs:**
+## 🚀 Project Overview
+
+NutriTrack is a sophisticated nutrition tracking web application that demonstrates advanced cloud computing principles through practical implementation. The project showcases modern software architecture patterns, external API integration, AI-powered features, and cloud deployment strategies.
+
+### Key Highlights
+- **Cloud-Native Architecture** - Designed from ground-up for cloud deployment
+- **AI Integration** - Powered by Google Gemini AI for intelligent recommendations
+- **Real-Time Data** - Live integration with USDA FoodData Central API
+- **Modern UI/UX** - Responsive design with glassmorphism effects
+- **Scalable Backend** - Asynchronous processing with Quart framework
+
+## ✨ Features
+
+### Core Functionality
+- **🔐 User Authentication** - Secure registration and login system
+- **🔍 Smart Food Search** - Real-time search through USDA's comprehensive database
+- **📊 Nutrition Analytics** - Interactive charts and progress tracking
+- **🤖 AI Nutrition Assistant** - Personalized dietary advice and recommendations
+- **📱 Responsive Design** - Seamless experience across all devices
+- **🎨 Modern Interface** - Contemporary design with smooth animations
+
+### Cloud Computing Features
+- **Service-Oriented Architecture** - Modular, scalable application design
+- **API-First Development** - RESTful interfaces and external service integration
+- **Environment-Based Configuration** - Development, testing, and production environments
+- **Database Virtualization** - SQLite for development, PostgreSQL for production
+- **Containerization Ready** - Docker-compatible deployment configuration
+
+## 🛠️ Technology Stack
+
+### Backend Technologies
+- **Python 3.11** - Core programming language
+- **Quart Framework** - Asynchronous web application framework
+- **SQLAlchemy** - Database ORM with AsyncIO support
+- **Werkzeug** - Security utilities and password hashing
+
+### Frontend Technologies
+- **HTML5 & CSS3** - Modern web standards with Grid and Flexbox
+- **JavaScript ES6+** - Async/await patterns for API communication
+- **Bootstrap 5** - Responsive design framework
+- **Custom CSS** - Glassmorphism effects and gradient designs
+
+### External Services & APIs
 - **USDA FoodData Central API** - Comprehensive nutrition database
 - **Google Gemini AI** - Advanced language model for nutrition advice
+- **Matplotlib** - Server-side chart generation and data visualization
+
+### Development & Deployment
+- **Git** - Version control and collaboration
+- **Virtual Environments** - Dependency isolation and management
+- **Replit** - Cloud development and demonstration platform
+- **Environment Variables** - Secure configuration management
 
 ## 📸 Screenshots
 
@@ -72,3 +107,13 @@
 - USDA API Key ([Get one here](https://fdc.nal.usda.gov/api-guide.html))
 - Google Gemini API Key ([Get one here](https://makersuite.google.com/app/apikey))
 
+## 📄 License
+
+This project is developed for educational purposes as part of the Cloud Computing and Virtualization course at K.J. Somaiya College of Engineering.
+
+## 🙏 Acknowledgments
+
+- **USDA FoodData Central** - Comprehensive nutrition database
+- **Google Gemini AI** - Advanced language model capabilities
+- **K.J. Somaiya College of Engineering** - Academic support and guidance
+- **Open Source Community** - Frameworks and tools that made this project possible
