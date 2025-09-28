@@ -92,6 +92,8 @@ NutriTrack is a sophisticated nutrition tracking web application that demonstrat
 <img width="436" height="616" alt="image" src="https://github.com/user-attachments/assets/6d3dfe4d-0fba-494b-acf3-c62f0601fe24" />
 
 
+### Website Cloud Deployment
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/429c194a-fec9-46ff-9a27-0c1430bf187b" />
 
 
 ## 🚀 Quick Start
